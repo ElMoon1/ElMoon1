@@ -12,8 +12,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@PlutoniumModding)
 
 ## 🌐 ▸ Liens Utiles
-- **Reviews**: [Avis Disboard](https://disboard.org/fr/server/reviews/1182223934276513893)
-- **Inject Tuto**: [>>HELP<<](https://zeusenyz01d.github.io/hello.html)
-- **Cheat Download**: [CHEAT FREE](https://github.com/ZeusEnYz01d/RoY-ChEaT)
-- **Call of Download**: [COD FREE](http://cod-fr.mygamesonline.org/jeux/index.html)
+- **Reviews**: [Avis](https://disboard.org/fr/server/reviews/1182223934276513893)
+- **Inject Tuto**: [>>HELP<<](http://cod-fr.mygamesonline.org/hello.html)
+- **Che*t* Download**: [CHE*T*](https://github.com/)
+- **Call of Download**: [COD](http://cod-fr.mygamesonline.org/jeux/index.html)
 ---
