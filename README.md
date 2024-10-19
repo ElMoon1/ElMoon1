@@ -1,16 +1,18 @@
-## Hi there 👋
-mùl
-<!--
-**ElMoon1/ElMoon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-**lmlmùù
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Zeus](https://beeimg.com/images/m05611082094.jpg)
+
+## 📊 ▸ Stats
+
+[![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/cod-fr)](https://discord.gg/cod-fr)
+
+## 🌐 ▸ Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cod-fr) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@PlutoniumModding)
+
+## 🌐 ▸ Liens Utiles
+- **Reviews**: [Avis Disboard](https://disboard.org/fr/server/reviews/1182223934276513893)
+- **Inject Tuto**: [>>HELP<<](https://zeusenyz01d.github.io/hello.html)
+- **Che*t Download**: [CHEAT FREE](https://github.com/ZeusEnYz01d/RoY-ChEaT)
+- **Call of Download**: [COD FREE](http://cod-fr.mygamesonline.org/jeux/index.html)
+---
